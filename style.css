@@ -1,3 +1,10 @@
+.header {
+    text-align: center;
+}
+
+.pixelsNoBtn {
+}
+
 .container {
     width: 600px;
     height: 600px;
