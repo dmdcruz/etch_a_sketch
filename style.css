@@ -1,0 +1,16 @@
+.container {
+    width: 600px;
+    height: 600px;
+    
+    display: flex;
+    flex-direction: column;
+    border: 3px solid black;
+    margin: 10px auto;
+}
+.row, .pixels {
+    border: 1px solid lightgray;
+    color: black;
+    display: flex;
+    flex-grow: 1;
+    
+}
